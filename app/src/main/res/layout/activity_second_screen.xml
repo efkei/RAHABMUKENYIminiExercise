@@ -14,7 +14,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:src="/home/efkei/miniExercise/app/src/main/res/mipmap-xxxhdpi/im4.jpeg"/>
+        android:src="@drawable/im1"/>
 
     <Button
         android:id="@+id/secondBtn"

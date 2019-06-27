@@ -13,7 +13,7 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        android:src="/home/efkei/miniExercise/app/src/main/res/mipmap-xxxhdpi/im1.jpeg"/>
+        android:src="@drawable/im2"/>
     <Button
         android:id="@+id/thirdBtn"
         android:layout_width="wrap_content"

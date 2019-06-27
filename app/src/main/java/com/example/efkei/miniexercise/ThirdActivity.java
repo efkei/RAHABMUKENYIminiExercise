@@ -16,6 +16,7 @@ public class ThirdActivity extends AppCompatActivity {
         Button next = (Button) findViewById(R.id.thirdBtn);
         next.setOnClickListener(new View.OnClickListener() {
             public void onClick(View view) {
+                finish();
                 Intent myIntent = new Intent( view.getContext(), MainActivity.class);
                 startActivityForResult(myIntent, 0);
             }
